@@ -8,7 +8,6 @@
   box-sizing: border-box;
 }
 
-
 body {
   background: no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -16,7 +15,7 @@ body {
   -o-background-size: cover;
   background-size: cover;
   color: white;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: "Ubuntu", sans-serif;
   font-weight: 700;
   text-shadow: 0px 0px 20px #242424;
 }
@@ -72,7 +71,6 @@ a:-webkit-any-link {
   margin-bottom: 5px;
 }
 
-
 /* =================
    Currency
 ================= */
@@ -84,14 +82,13 @@ a:-webkit-any-link {
   align-self: flex-start;
 }
 
-#weather>img {
+#weather > img {
   width: 70px;
 }
 
 .currency {
   padding: 0 10px;
 }
-
 
 /* =================
    Clock
@@ -144,25 +141,4 @@ a:-webkit-any-link {
   #author {
     font-size: 18px;
   }
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
